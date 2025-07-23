@@ -1,4 +1,4 @@
-local Compkiller = loadstring(game:HttpGet(""))();
+local Compkiller = loadstring(game:HttpGet("https://raw.githubusercontent.com/VCGUYS/A-B-C/refs/heads/main/source.luau"))();
 
 task.wait(1)
 
